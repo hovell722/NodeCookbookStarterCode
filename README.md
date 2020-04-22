@@ -23,7 +23,7 @@ Follow the commands below to run the cookbook.
 
 To clone this repo:
 ```
-git clone git@github.com:hovell722/NodeCookbookStarterCode.git
+$ git clone git@github.com:hovell722/NodeCookbookStarterCode.git
 ```
 ### Test locally
 
